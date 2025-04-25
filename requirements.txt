@@ -1,0 +1,7 @@
+streamlit
+gtts
+requests
+pandas
+PyMuPDF
+python-dotenv
+openpyxl
